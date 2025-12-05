@@ -1,0 +1,62 @@
+{"level":"info","message":"::1 - - [04/Dec/2025:12:48:09 +0000] \"GET /logs/combined.log HTTP/1.1\" 404 156 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"::1 - - [04/Dec/2025:12:48:09 +0000] \"GET /logs/combined.log HTTP/1.1\" 404 156 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [04/Dec/2025:12:48:09 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [04/Dec/2025:12:48:09 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"::1 - - [04/Dec/2025:12:50:00 +0000] \"GET /logs/combined.log HTTP/1.1\" 404 156 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"::1 - - [04/Dec/2025:12:50:00 +0000] \"GET /logs/combined.log HTTP/1.1\" 404 156 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [04/Dec/2025:12:50:00 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [04/Dec/2025:12:50:00 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"::1 - - [04/Dec/2025:12:57:38 +0000] \"GET /logs/combined.log HTTP/1.1\" 200 2304 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36\""}
+{"level":"info","message":"::1 - - [04/Dec/2025:12:57:38 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"http://localhost:5000/logs/combined.log\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [04/Dec/2025:12:58:06 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [04/Dec/2025:12:58:06 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"::1 - - [04/Dec/2025:12:58:06 +0000] \"GET /logs/combined.log HTTP/1.1\" 200 2803 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"::1 - - [04/Dec/2025:12:58:06 +0000] \"GET /logs/combined.log HTTP/1.1\" 200 3688 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [04/Dec/2025:13:04:08 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [04/Dec/2025:13:04:08 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"::1 - - [04/Dec/2025:13:04:08 +0000] \"GET /logs/combined.log HTTP/1.1\" 200 3957 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"::1 - - [04/Dec/2025:13:04:08 +0000] \"GET /logs/combined.log HTTP/1.1\" 200 4842 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [04/Dec/2025:13:08:19 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [04/Dec/2025:13:08:19 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"::1 - - [04/Dec/2025:13:08:19 +0000] \"GET /logs/combined.log HTTP/1.1\" 200 5111 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"::1 - - [04/Dec/2025:13:08:19 +0000] \"GET /logs/combined.log HTTP/1.1\" 200 5996 \"http://localhost:5174/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [04/Dec/2025:13:11:08 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [04/Dec/2025:13:11:08 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36\""}
+{"level":"info","message":"::1 - - [04/Dec/2025:13:11:08 +0000] \"GET /logs/combined.log HTTP/1.1\" 200 6853 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36\""}
+{"level":"info","message":"::1 - - [04/Dec/2025:13:11:08 +0000] \"GET /logs/combined.log HTTP/1.1\" 200 7108 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [04/Dec/2025:13:19:04 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [04/Dec/2025:13:19:04 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"::1 - - [04/Dec/2025:13:19:04 +0000] \"GET /logs/combined.log HTTP/1.1\" 200 7363 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"::1 - - [04/Dec/2025:13:19:04 +0000] \"GET /logs/combined.log HTTP/1.1\" 200 8248 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [04/Dec/2025:16:31:21 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [04/Dec/2025:16:31:21 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"::1 - - [04/Dec/2025:16:31:21 +0000] \"GET /logs/combined.log HTTP/1.1\" 200 9133 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"::1 - - [04/Dec/2025:16:31:21 +0000] \"GET /logs/combined.log HTTP/1.1\" 200 9402 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [05/Dec/2025:04:36:01 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [05/Dec/2025:04:36:01 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"::1 - - [05/Dec/2025:04:36:01 +0000] \"GET /logs/combined.log HTTP/1.1\" 200 9671 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"::1 - - [05/Dec/2025:04:36:01 +0000] \"GET /logs/combined.log HTTP/1.1\" 200 10556 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [05/Dec/2025:05:31:53 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\""}
+{"level":"info","message":"Status API called"}
+{"level":"info","message":"::1 - - [05/Dec/2025:05:31:53 +0000] \"GET /api/status HTTP/1.1\" 200 66 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\""}
+{"level":"info","message":"::1 - - [05/Dec/2025:05:31:53 +0000] \"GET /logs/combined.log HTTP/1.1\" 200 10826 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\""}
+{"level":"info","message":"::1 - - [05/Dec/2025:05:31:53 +0000] \"GET /logs/combined.log HTTP/1.1\" 200 11670 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\""}
