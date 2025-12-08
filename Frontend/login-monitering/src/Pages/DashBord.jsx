@@ -24,7 +24,7 @@ const Dashboard = () => {
       <h1>Logging & Monitoring Dashboard</h1>
       <p
         className={`status-box ${
-          status === "OK" ? "status-success" : "status-error"
+          status === "API is running" ? "status-success" : "status-error"
         }`}
       >
         API Status: {status}
